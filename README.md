@@ -2,6 +2,7 @@
 API construida utilizando Spring
 
 Executar os testes: ./mvnw test
+
 Subir o servidor: ./mvnw spring-boot:run
 
 Chame o Endpoint 'POST' /jogovelha passando no corpo o objeto abaixo:
